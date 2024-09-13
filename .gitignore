@@ -1,0 +1,9 @@
+venv
+.idea/
+__pycache__/
+.env
+pdf_files
+MLmodel/project_convex/Main-Model-7.2B-Q5_K_M.gguf
+MLmodel/project_convex/.idea
+MLmodel/project_convex/__pycache__
+.env.local

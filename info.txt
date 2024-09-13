@@ -1,0 +1,8 @@
+create virtual env venv
+activate
+install from requirements.txt
+create pdf_files folder
+create .env.local with SECRET_KEY = YOUR_SECRET_KEY and convex variables
+npm init -y && npm install convex
+npx convex dev
+python3 run.py
